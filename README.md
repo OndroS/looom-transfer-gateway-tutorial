@@ -1,4 +1,4 @@
-###Original repo by Loom: https://github.com/loomnetwork/token-gateway-example
+Original repo by Loom: https://github.com/loomnetwork/token-gateway-example
 
 # Token Gateway Example
 
